@@ -1,0 +1,43 @@
+﻿<UserControl x:Class="Player.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Player"
+             mc:Ignorable="d" 
+              Height="auto" Width="auto"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             FontFamily="Segoe UI Emoji">
+    <Grid Background="#44444444">
+        <materialDesign:TransitioningContent x:Name="TrainsitionigContentSlide" OpeningEffect="{materialDesign:TransitionEffect SlideInFromLeft, Duration=0:0:0.8}" >
+            <Grid Height="306" Width="auto" RenderTransformOrigin="0.503,0.627"  >
+
+
+                <!--로그인 화면-->
+                <Rectangle Width="250" Height="131" VerticalAlignment="Bottom" Margin="0,-1,-0.4,109" RadiusY="10" RadiusX="10" Fill="Black" >
+                    <Rectangle.Effect>
+                        <DropShadowEffect BlurRadius="15" Direction="0" RenderingBias="Quality" ShadowDepth="1" Color="#FFBBBBBB"/>
+                    </Rectangle.Effect>
+                </Rectangle>
+
+                <!--라인-->
+                <Grid VerticalAlignment="Bottom"  Height="131"  Margin="0,0,-0.4,109">
+                    <Label Content="LOGIN" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="5" Foreground="Gray" FontSize="18"/>
+                    <StackPanel VerticalAlignment="Center" Margin="15">
+                        <TextBox Margin="5,5" materialDesign:HintAssist.Hint="EMAIL" Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontFamily="Champagne &amp; Limousines" FontSize="18" Foreground="LightSteelBlue"/>
+                        <PasswordBox Margin="5,5" materialDesign:HintAssist.Hint="SENHA" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" FontFamily="Champagne &amp; Limousines" FontSize="18" Foreground="LightSteelBlue"/>
+                    </StackPanel>
+                </Grid>
+                <!--로그인 버튼-->
+                <Button Name="login" Width="85" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="80,0,84.6,85" Content="LOGIN" Click="Login_Click" BorderBrush="Black">
+                    <Button.Background>
+                        <RadialGradientBrush RadiusX="-1">
+                            <GradientStop Color="Black" Offset="1"/>
+                            <GradientStop Color="#FFA96132"/>
+                        </RadialGradientBrush>
+                    </Button.Background>
+                </Button>
+            </Grid>
+        </materialDesign:TransitioningContent>
+    </Grid>
+</UserControl>

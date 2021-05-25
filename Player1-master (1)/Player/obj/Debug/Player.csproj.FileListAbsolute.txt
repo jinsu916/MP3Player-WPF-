@@ -1,0 +1,142 @@
+D:\GIT\Player\Player\bin\Debug\Player.exe.config
+D:\GIT\Player\Player\bin\Debug\Player.exe
+D:\GIT\Player\Player\bin\Debug\Player.pdb
+D:\GIT\Player\Player\bin\Debug\MaterialDesignColors.dll
+D:\GIT\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\GIT\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\GIT\Player\Player\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\GIT\Player\Player\obj\Debug\MainWindow.g.cs
+D:\GIT\Player\Player\obj\Debug\App.g.cs
+D:\GIT\Player\Player\obj\Debug\Player_MarkupCompile.cache
+D:\GIT\Player\Player\obj\Debug\Player_MarkupCompile.lref
+D:\GIT\Player\Player\obj\Debug\App.baml
+D:\GIT\Player\Player\obj\Debug\MainWindow.baml
+D:\GIT\Player\Player\obj\Debug\Player.g.resources
+D:\GIT\Player\Player\obj\Debug\Player.Properties.Resources.resources
+D:\GIT\Player\Player\obj\Debug\Player.csproj.GenerateResource.Cache
+D:\GIT\Player\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+D:\GIT\Player\Player\obj\Debug\Player.exe
+D:\GIT\Player\Player\obj\Debug\Player.pdb
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\bin\Debug\Player.exe.config
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\bin\Debug\Player.exe
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\bin\Debug\Player.pdb
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\bin\Debug\MaterialDesignColors.dll
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\bin\Debug\NAudio.dll
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\bin\Debug\UltraID3Lib.dll
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\obj\Debug\Player_MarkupCompile.cache
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\obj\Debug\Player_MarkupCompile.lref
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\obj\Debug\App.baml
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\obj\Debug\Player.g.resources
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\obj\Debug\Player.csproj.CopyComplete
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\obj\Debug\Player.exe
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\obj\Debug\Player.pdb
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\obj\Debug\Player.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\bin\Debug\JLyrics.dll
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\obj\Debug\UserControl1.g.cs
+C:\Users\user\Desktop\Player1-master\Player1-master\Player\obj\Debug\UserControl1.baml
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\bin\Debug\Player.exe.config
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\bin\Debug\Player.exe
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\bin\Debug\Player.pdb
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\bin\Debug\MaterialDesignColors.dll
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\obj\Debug\Player.csprojAssemblyReference.cache
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\obj\Debug\MainWindow.g.cs
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\obj\Debug\UserControl1.g.cs
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\obj\Debug\App.g.cs
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\obj\Debug\Player_MarkupCompile.cache
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\obj\Debug\Player_MarkupCompile.lref
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\obj\Debug\App.baml
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\obj\Debug\MainWindow.baml
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\obj\Debug\UserControl1.baml
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\obj\Debug\Player.g.resources
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\obj\Debug\Player.csproj.CopyComplete
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\obj\Debug\Player.exe
+C:\Users\bit\Documents\카카오톡 받은 파일\Player1-master (1)\Player\obj\Debug\Player.pdb
+C:\Users\bit\Desktop\Player1-master (1)\Player\bin\Debug\Player.exe.config
+C:\Users\bit\Desktop\Player1-master (1)\Player\bin\Debug\Player.exe
+C:\Users\bit\Desktop\Player1-master (1)\Player\bin\Debug\Player.pdb
+C:\Users\bit\Desktop\Player1-master (1)\Player\bin\Debug\MaterialDesignColors.dll
+C:\Users\bit\Desktop\Player1-master (1)\Player\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\bit\Desktop\Player1-master (1)\Player\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\bit\Desktop\Player1-master (1)\Player\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\bit\Desktop\Player1-master (1)\Player\obj\Debug\Player.csprojAssemblyReference.cache
+C:\Users\bit\Desktop\Player1-master (1)\Player\obj\Debug\MainWindow.g.cs
+C:\Users\bit\Desktop\Player1-master (1)\Player\obj\Debug\UserControl1.g.cs
+C:\Users\bit\Desktop\Player1-master (1)\Player\obj\Debug\App.g.cs
+C:\Users\bit\Desktop\Player1-master (1)\Player\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bit\Desktop\Player1-master (1)\Player\obj\Debug\Player_MarkupCompile.cache
+C:\Users\bit\Desktop\Player1-master (1)\Player\obj\Debug\Player_MarkupCompile.lref
+C:\Users\bit\Desktop\Player1-master (1)\Player\obj\Debug\App.baml
+C:\Users\bit\Desktop\Player1-master (1)\Player\obj\Debug\MainWindow.baml
+C:\Users\bit\Desktop\Player1-master (1)\Player\obj\Debug\UserControl1.baml
+C:\Users\bit\Desktop\Player1-master (1)\Player\obj\Debug\Player.g.resources
+C:\Users\bit\Desktop\Player1-master (1)\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\bit\Desktop\Player1-master (1)\Player\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\bit\Desktop\Player1-master (1)\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\bit\Desktop\Player1-master (1)\Player\obj\Debug\Player.csproj.CopyComplete
+C:\Users\bit\Desktop\Player1-master (1)\Player\obj\Debug\Player.exe
+C:\Users\bit\Desktop\Player1-master (1)\Player\obj\Debug\Player.pdb
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\bin\Debug\Player.exe.config
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\bin\Debug\Player.exe
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\bin\Debug\Player.pdb
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\bin\Debug\MaterialDesignColors.dll
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\obj\Debug\Player.csprojAssemblyReference.cache
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\obj\Debug\MainWindow.g.cs
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\obj\Debug\UserControl1.g.cs
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\obj\Debug\App.g.cs
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\obj\Debug\Player_MarkupCompile.cache
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\obj\Debug\Player_MarkupCompile.lref
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\obj\Debug\App.baml
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\obj\Debug\MainWindow.baml
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\obj\Debug\UserControl1.baml
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\obj\Debug\Player.g.resources
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\obj\Debug\Player.Properties.Resources.resources
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\obj\Debug\Player.csproj.GenerateResource.cache
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\obj\Debug\Player.csproj.CopyComplete
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\obj\Debug\Player.exe
+D:\비트30기 조진수\WPF노래재생\Player1-master (1)\Player\obj\Debug\Player.pdb
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\bin\Debug\Player.exe.config
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\bin\Debug\Player.exe
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\bin\Debug\Player.pdb
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\bin\Debug\MaterialDesignColors.dll
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\obj\Debug\Player.csprojAssemblyReference.cache
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\obj\Debug\MainWindow.g.cs
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\obj\Debug\UserControl1.g.cs
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\obj\Debug\App.g.cs
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\obj\Debug\Player_MarkupCompile.cache
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\obj\Debug\Player_MarkupCompile.lref
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\obj\Debug\App.baml
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\obj\Debug\MainWindow.baml
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\obj\Debug\UserControl1.baml
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\obj\Debug\Player.g.resources
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\obj\Debug\Player.csproj.CopyComplete
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\obj\Debug\Player.exe
+C:\Users\jinsu\OneDrive\문서\GitHub\MP3Player-WPF-\Player1-master (1)\Player\obj\Debug\Player.pdb
