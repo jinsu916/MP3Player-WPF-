@@ -265,14 +265,14 @@
                 <DataTemplate>
                     <TextBlock><Run Text="앨범: "/><InlineUIContainer>
                                 <TextBlock Text="{Binding Album}"/>
-                            </InlineUIContainer><Run Text=" | 제목: "/><InlineUIContainer> 
+                            <!--</InlineUIContainer><Run Text=" | 제목: "/><InlineUIContainer> 
                                 <TextBlock Text="{Binding Title}"/>
                             </InlineUIContainer><Run Text=" | 장르: "/><InlineUIContainer> 
                                 <TextBlock Text="{Binding Genre}"/>
                             </InlineUIContainer><Run Text=" | 발시일: "/><InlineUIContainer> 
                                 <TextBlock Text="{Binding Year}"/>
                                     </InlineUIContainer><Run Text=" | 길이: "/><InlineUIContainer> 
-                                <TextBlock Text="{Binding RunTime}"/>
+                                <TextBlock Text="{Binding RunTime}"/>-->
                             </InlineUIContainer></TextBlock>
                 </DataTemplate>
             </ListBox.ItemTemplate>
