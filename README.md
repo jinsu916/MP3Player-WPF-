@@ -2,4 +2,4 @@
  
 MP3 Player(WPF)
 
-https://github.com/jinsu916/MP3Player-WPF-/issues/1#issue-903267350
+https://user-images.githubusercontent.com/56424572/119775974-4ea05380-beff-11eb-9023-cdd801efe096.mp4
